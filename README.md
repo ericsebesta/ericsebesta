@@ -2,9 +2,9 @@
 
 This is my personal GitHub account, and is not associated with Unity Technologies or other companies. Thoughts/mistakes are my own.
 
-I'm currently an Engineering Manager with Unity Technologies. I have a long background in AAA game development, having working at Origin Systems / Electronic Arts, Sony Online Entertainment, Bioware / Electronic Arts, and Bethesda Game Studios / Zenimax Media.
+I'm currently an Engineering Manager with Unity Technologies. I have a long background in AAA game development, having worked at Origin Systems / Electronic Arts, Sony Online Entertainment, Bioware / Electronic Arts, and Bethesda Game Studios / Zenimax Media.
 
-Now that I work for Unity, I'm more free to engage with public communities and public source development, so I'm doing more hobby projects and contributing where I can. I expect sporadic efforts on here.
+Now that I work for Unity, I'm more free to engage with public communities and public source development, so I'm doing more hobby projects and contributing where I can. Realistically, I'll likely only make sporadic progress on projects here, but who knows.
 
 <!--
 **ericsebesta/ericsebesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
