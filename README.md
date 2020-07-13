@@ -6,6 +6,17 @@ I'm currently an Engineering Manager with Unity Technologies. I have a long back
 
 Now that I work for Unity, I'm more free to engage with public communities and public source development, so I'm doing more hobby projects and contributing where I can. Realistically, I'll likely only make sporadic progress on projects here, but who knows.
 
+My expected focuses:
+
+Simplifying quality-focused processes so that more developers will adopt practices such as:
+- unit testing
+- code coverage analysis
+- static analysis
+- linters
+- branch protections
+- required status checks on pull requests
+- etc.
+
 <!--
 **ericsebesta/ericsebesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
