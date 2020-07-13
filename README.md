@@ -15,6 +15,8 @@ My expected focus is simplifying quality-focused processes so that more develope
 - required status checks on pull requests
 - etc.
 
+So, expect quality-focused project templates, tutorial, links to references, and basically anything to better package up good practices to make them sustainable and easily adoptable. Anyone can throw code into a Unity Update() call, but how easily can we make it to have confidence that it's TRULY correct?
+
 <!--
 **ericsebesta/ericsebesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
